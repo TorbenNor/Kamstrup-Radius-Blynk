@@ -5,13 +5,13 @@ The sketch will only work on Kamstrup OMNIPOWER electricity meter located in Den
 
 Before you start you will need to get 2 encryption key from the electricity supplier.
 
-BOM:
+# BOM:
 
 esp32 lolin with Battery connector.
 
 LiOn Battery.
 
-Connections:
+# Connections:
 
 Connect the VCC 4.25v power from the meter to the USB pin on the ESP32.
 
