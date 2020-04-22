@@ -18,4 +18,4 @@ Connect the Data_Out tx from the meter to pin IO 16 on the ESP32.
 Connect the GND from the meter to GND pin the ESP32.
 
 
-<img src="Blynk.jpg">
+<img src="blynk.jpg">
