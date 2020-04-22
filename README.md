@@ -7,13 +7,11 @@ Before you start you will need to get 2 encryption key from the electricity supp
 
 # BOM:
 
-esp32 lolin with Battery connector.
+esp32 lolin
 
-LiOn Battery.
 
 # Connections:
 
-Connect the VCC 4.25v power from the meter to the USB pin on the ESP32.
 
 Connect the Data_Out tx from the meter to pin IO 16 on the ESP32.
 
