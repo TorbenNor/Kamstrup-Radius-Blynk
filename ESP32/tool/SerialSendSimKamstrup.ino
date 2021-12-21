@@ -5,8 +5,8 @@
     Board LOLIN D1 R2 Mini
 
     Keys for the reciver
-    char conf_key[33] =     "5AD84121D9D20B364B7A11F3C1B5827F";
-    char conf_authkey[33] = "AFB3F93E3E7204EDB3C27F96DBD51AE0";
+char conf_key[33]     = "A40D0ED8C94CB0E4B12126F99B53D14E";
+char conf_authkey[33] = "4A86A34C9FA88E7318FA1EA366E0ABA5";
 
  */
 
